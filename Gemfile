@@ -83,4 +83,8 @@ gem 'devise'
 
 gem 'sprockets-rails', '>= 2.3.2'
 
-gem 'carrierwave', '~> 1.0'
+gem 'carrierwave', '~> 1.0' 
+
+gem "figaro"
+
+gem "carrierwave-aws"
